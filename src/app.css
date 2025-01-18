@@ -1,5 +1,6 @@
 body {
   background-color: bisque;
+  font-family: "Courier New", Courier, monospace;
 }
 
 h1 {
@@ -24,4 +25,5 @@ footer {
 footer a {
   margin: 0 20px;
   color: orangered;
+  text-decoration: none;
 }
